@@ -27,7 +27,7 @@
     <SupportUrl>https://github.com/TrogloGeek/XRebirth-SaveGame-Helper/</SupportUrl>
     <ProductName>X Rebirth SaveGame Helper</ProductName>
     <PublisherName>TrogloGeek</PublisherName>
-    <ApplicationRevision>4</ApplicationRevision>
+    <ApplicationRevision>5</ApplicationRevision>
     <ApplicationVersion>0.1.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <PublishWizardCompleted>true</PublishWizardCompleted>
@@ -121,6 +121,7 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <None Include="README.md" />
     <None Include="XRSGHelper_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
